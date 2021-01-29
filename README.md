@@ -3,7 +3,7 @@
 
 ## 개발 환경
 - JDK 8
-- Gradle 4.4.1
+- Gradle 6.3
 - Spring Io Platform Cairo-SR3
 - Spring Boot 2.0.4
 - Mysql Java Connector 8.0.11
